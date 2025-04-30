@@ -2,7 +2,7 @@
 
 # 📚 Tugas PBO - Pertemuan 7
 
-## 📸 Screenshot Postman
+## 📸 Screenshot 
 
 | No. | Screenshot | Deskripsi |
 |-----|------------|-----------|

@@ -20,6 +20,7 @@
 ---
 
 ## 📦 Export Postman
-Kamu bisa gunakan file berikut untuk menguji API:
 
-📁 [Download `Latihan API.postman_collection.json`](#) *(upload manual ke repo jika belum tersedia)*
+
+
+[Latihan API.postman_collection.json](https://github.com/user-attachments/files/19973832/Latihan.API.postman_collection.json)

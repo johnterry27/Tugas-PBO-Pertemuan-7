@@ -7,7 +7,7 @@
 | No. | Screenshot | Deskripsi |
 |-----|------------|-----------|
 | 1 | ![Screenshot 4](https://github.com/user-attachments/assets/5e045295-9f40-45bb-b4bc-e082f8ea7f5f) | Menampilkan semua buku  |
-| 2 | ![Screenshot 5](https://github.com/user-attachments/assets/ce665991-a669-404a-8995-349fba31ec59) | Menampilkan buku by ID ) |
+| 2 | ![Screenshot 5](https://github.com/user-attachments/assets/ce665991-a669-404a-8995-349fba31ec59) | Menampilkan buku by ID  |
 | 3 | ![Screenshot 1](https://github.com/user-attachments/assets/433e2079-b913-4b6f-beff-ba361e47b479) | Menambahkan buku |
 | 4 | ![Screenshot 3](https://github.com/user-attachments/assets/d17eb891-12f3-4785-9616-f09eda49cc6f) | Edit buku |
 | 5 | ![Screenshot 2](https://github.com/user-attachments/assets/1cdc3ad6-ff99-41dc-9dc8-86a730549ce7) | Hapus buku |

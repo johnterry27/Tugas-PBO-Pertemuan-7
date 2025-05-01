@@ -1,0 +1,107 @@
+{
+	"info": {
+		"_postman_id": "dbaa7580-a791-43b2-9bd8-fac2e925cda5",
+		"name": "Latihan API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44169403",
+		"_collection_link": "https://johnterry-837828.postman.co/workspace/John-terry's-Workspace~4a66c5c7-b768-4280-82d0-554df8565312/collection/44169403-dbaa7580-a791-43b2-9bd8-fac2e925cda5?action=share&source=collection_link&creator=44169403"
+	},
+	"item": [
+		{
+			"name": "Get List Users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Users Single",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Create Users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": " {\r\n        \"title\": \"Kewarganegaraan\",\r\n        \"author\": \"John Terry\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Users",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"title\": \"Belajar Java dan Api\",\r\n        \"author\": \"Sylvinho\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:4567/api/books/8",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books",
+						"8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Users",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:4567/api/books/9",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "4567",
+					"path": [
+						"api",
+						"books",
+						"9"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
